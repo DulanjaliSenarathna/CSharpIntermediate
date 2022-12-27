@@ -11,3 +11,16 @@ C:\Users\Dulanjali\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\
 C:\Users\Dulanjali\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.dll
 C:\Users\Dulanjali\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.pdb
 C:\Users\Dulanjali\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.genruntimeconfig.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\bin\Debug\netcoreapp3.1\CSharpIntermediate.exe
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\bin\Debug\netcoreapp3.1\CSharpIntermediate.deps.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\bin\Debug\netcoreapp3.1\CSharpIntermediate.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\bin\Debug\netcoreapp3.1\CSharpIntermediate.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\bin\Debug\netcoreapp3.1\CSharpIntermediate.dll
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\bin\Debug\netcoreapp3.1\CSharpIntermediate.pdb
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.dll
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.pdb
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\CSharpIntermediate\obj\Debug\netcoreapp3.1\CSharpIntermediate.genruntimeconfig.cache
