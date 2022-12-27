@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dulanjali\\source\\repos\\CSharpIntermediate\\CSharpIntermediate\\CSharpIntermediate.csproj",
+      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\CSharpIntermediate\\CSharpIntermediate.csproj",
       "projectName": "CSharpIntermediate",
-      "projectPath": "C:\\Users\\Dulanjali\\source\\repos\\CSharpIntermediate\\CSharpIntermediate\\CSharpIntermediate.csproj",
+      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\CSharpIntermediate\\CSharpIntermediate.csproj",
       "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dulanjali\\source\\repos\\CSharpIntermediate\\CSharpIntermediate\\obj\\",
+      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\CSharpIntermediate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
