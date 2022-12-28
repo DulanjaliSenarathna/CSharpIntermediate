@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Amazon
 {
-    class RateCalculator
+  internal class RateCalculator //cant access outside of this assembly
     {
+        public int Calculate(Customer customer)
+        {
+            return 0;
+        }
     }
 }

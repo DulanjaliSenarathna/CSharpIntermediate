@@ -1,0 +1,13 @@
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.exe
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.deps.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.dll
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\bin\Debug\netcoreapp3.1\Constructors2.pdb
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.dll
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.pdb
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.genruntimeconfig.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Constructors2\obj\Debug\netcoreapp3.1\Constructors2.csprojAssemblyReference.cache
