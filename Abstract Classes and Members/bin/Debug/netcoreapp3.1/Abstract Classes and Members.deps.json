@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Abstract Classes and Members/1.0.0": {
+        "runtime": {
+          "Abstract Classes and Members.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract Classes and Members/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

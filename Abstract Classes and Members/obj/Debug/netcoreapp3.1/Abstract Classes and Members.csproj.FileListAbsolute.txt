@@ -1,0 +1,13 @@
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\bin\Debug\netcoreapp3.1\Abstract Classes and Members.exe
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\bin\Debug\netcoreapp3.1\Abstract Classes and Members.deps.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\bin\Debug\netcoreapp3.1\Abstract Classes and Members.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\bin\Debug\netcoreapp3.1\Abstract Classes and Members.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\bin\Debug\netcoreapp3.1\Abstract Classes and Members.dll
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\bin\Debug\netcoreapp3.1\Abstract Classes and Members.pdb
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\obj\Debug\netcoreapp3.1\Abstract Classes and Members.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\obj\Debug\netcoreapp3.1\Abstract Classes and Members.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\obj\Debug\netcoreapp3.1\Abstract Classes and Members.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\obj\Debug\netcoreapp3.1\Abstract Classes and Members.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\obj\Debug\netcoreapp3.1\Abstract Classes and Members.dll
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\obj\Debug\netcoreapp3.1\Abstract Classes and Members.pdb
+C:\Users\Dulanjali\Desktop\CSharpIntermediate\Abstract Classes and Members\obj\Debug\netcoreapp3.1\Abstract Classes and Members.genruntimeconfig.cache
