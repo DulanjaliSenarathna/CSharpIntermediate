@@ -1,0 +1,12 @@
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\bin\Debug\netcoreapp3.1\Boxing and Unboxing.exe
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\bin\Debug\netcoreapp3.1\Boxing and Unboxing.deps.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\bin\Debug\netcoreapp3.1\Boxing and Unboxing.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\bin\Debug\netcoreapp3.1\Boxing and Unboxing.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\bin\Debug\netcoreapp3.1\Boxing and Unboxing.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\bin\Debug\netcoreapp3.1\Boxing and Unboxing.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\obj\Debug\netcoreapp3.1\Boxing and Unboxing.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\obj\Debug\netcoreapp3.1\Boxing and Unboxing.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\obj\Debug\netcoreapp3.1\Boxing and Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\obj\Debug\netcoreapp3.1\Boxing and Unboxing.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\obj\Debug\netcoreapp3.1\Boxing and Unboxing.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Boxing and Unboxing\obj\Debug\netcoreapp3.1\Boxing and Unboxing.genruntimeconfig.cache

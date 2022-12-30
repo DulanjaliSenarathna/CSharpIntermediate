@@ -1,0 +1,9 @@
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\bin\Debug\netcoreapp3.1\Amazon.deps.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\bin\Debug\netcoreapp3.1\Amazon.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\bin\Debug\netcoreapp3.1\Amazon.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.pdb

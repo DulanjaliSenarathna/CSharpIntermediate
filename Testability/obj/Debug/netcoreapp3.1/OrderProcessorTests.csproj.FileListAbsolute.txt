@@ -1,0 +1,4 @@
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\OrderProcessorTests.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\OrderProcessorTests.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\OrderProcessorTests.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\OrderProcessorTests.csproj.CoreCompileInputs.cache

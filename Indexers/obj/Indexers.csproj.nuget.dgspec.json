@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Indexers\\Indexers.csproj": {}
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Indexers\\Indexers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Indexers\\Indexers.csproj": {
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Indexers\\Indexers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Indexers\\Indexers.csproj",
+        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Indexers\\Indexers.csproj",
         "projectName": "Indexers",
-        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Indexers\\Indexers.csproj",
+        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Indexers\\Indexers.csproj",
         "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Indexers\\obj\\",
+        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Indexers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

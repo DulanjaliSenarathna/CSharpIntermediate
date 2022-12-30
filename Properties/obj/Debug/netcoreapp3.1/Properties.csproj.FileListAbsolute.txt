@@ -11,3 +11,16 @@ C:\Users\Dulanjali\Desktop\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1
 C:\Users\Dulanjali\Desktop\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.dll
 C:\Users\Dulanjali\Desktop\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
 C:\Users\Dulanjali\Desktop\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache

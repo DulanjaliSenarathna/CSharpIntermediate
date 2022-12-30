@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Access Modifiers\\Access Modifiers.csproj": {}
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Access Modifiers\\Access Modifiers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Access Modifiers\\Access Modifiers.csproj": {
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Access Modifiers\\Access Modifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Access Modifiers\\Access Modifiers.csproj",
+        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Access Modifiers\\Access Modifiers.csproj",
         "projectName": "Access Modifiers",
-        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Access Modifiers\\Access Modifiers.csproj",
+        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Access Modifiers\\Access Modifiers.csproj",
         "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Access Modifiers\\obj\\",
+        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Access Modifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

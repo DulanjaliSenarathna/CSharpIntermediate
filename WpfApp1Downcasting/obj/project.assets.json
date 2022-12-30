@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\WpfApp1Downcasting\\WpfApp1Downcasting.csproj",
+      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\WpfApp1Downcasting\\WpfApp1Downcasting.csproj",
       "projectName": "WpfApp1Downcasting",
-      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\WpfApp1Downcasting\\WpfApp1Downcasting.csproj",
+      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\WpfApp1Downcasting\\WpfApp1Downcasting.csproj",
       "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\WpfApp1Downcasting\\obj\\",
+      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\WpfApp1Downcasting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Fields\\Fields.csproj": {}
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Fields\\Fields.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Fields\\Fields.csproj": {
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Fields\\Fields.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Fields\\Fields.csproj",
+        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Fields\\Fields.csproj",
         "projectName": "Fields",
-        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Fields\\Fields.csproj",
+        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Fields\\Fields.csproj",
         "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Fields\\obj\\",
+        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Fields\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

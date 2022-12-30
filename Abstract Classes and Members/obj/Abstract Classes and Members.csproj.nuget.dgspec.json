@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Abstract Classes and Members\\Abstract Classes and Members.csproj": {}
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Abstract Classes and Members\\Abstract Classes and Members.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Abstract Classes and Members\\Abstract Classes and Members.csproj": {
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Abstract Classes and Members\\Abstract Classes and Members.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Abstract Classes and Members\\Abstract Classes and Members.csproj",
+        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Abstract Classes and Members\\Abstract Classes and Members.csproj",
         "projectName": "Abstract Classes and Members",
-        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Abstract Classes and Members\\Abstract Classes and Members.csproj",
+        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Abstract Classes and Members\\Abstract Classes and Members.csproj",
         "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Abstract Classes and Members\\obj\\",
+        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Abstract Classes and Members\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

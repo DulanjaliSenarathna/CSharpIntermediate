@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Access ModifiersAll\\Access ModifiersAll.csproj",
+      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Access ModifiersAll\\Access ModifiersAll.csproj",
       "projectName": "Access ModifiersAll",
-      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Access ModifiersAll\\Access ModifiersAll.csproj",
+      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Access ModifiersAll\\Access ModifiersAll.csproj",
       "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Access ModifiersAll\\obj\\",
+      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Access ModifiersAll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Amazon\\Amazon.csproj": {
-              "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Amazon\\Amazon.csproj"
+            "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Amazon\\Amazon.csproj": {
+              "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Amazon\\Amazon.csproj"
             }
           }
         }

@@ -1,0 +1,16 @@
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\Testability.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\Testability.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\Testability.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\Testability.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\bin\Debug\netcoreapp3.1\Testability.exe
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\bin\Debug\netcoreapp3.1\Testability.deps.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\bin\Debug\netcoreapp3.1\Testability.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\bin\Debug\netcoreapp3.1\Testability.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\bin\Debug\netcoreapp3.1\Testability.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\bin\Debug\netcoreapp3.1\Testability.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\Testability.csproj.CopyComplete
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\Testability.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\Testability.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Testability\obj\Debug\netcoreapp3.1\Testability.genruntimeconfig.cache

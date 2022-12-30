@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtiYEd21M5gWh5w+rMfkL5s5SuyRWgwHfA9ScugoTke20gZhbf9l+1v8Mq5CVlRBGs2wtAdMWlI/Ador8DfUiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Testability\\Testability.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dulanjali\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

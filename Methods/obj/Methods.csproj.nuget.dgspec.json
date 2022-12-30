@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Methods\\Methods.csproj": {}
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Methods\\Methods.csproj": {
+    "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Methods\\Methods.csproj",
+        "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Methods\\Methods.csproj",
+        "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Methods\\obj\\",
+        "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

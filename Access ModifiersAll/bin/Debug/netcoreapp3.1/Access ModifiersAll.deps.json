@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Access ModifiersAll/1.0.0": {
+        "dependencies": {
+          "Amazon": "1.0.0"
+        },
+        "runtime": {
+          "Access ModifiersAll.dll": {}
+        }
+      },
+      "Amazon/1.0.0": {
+        "runtime": {
+          "Amazon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access ModifiersAll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

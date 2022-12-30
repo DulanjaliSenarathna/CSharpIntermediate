@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Inheritance\\Inheritance.csproj",
+      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Inheritance\\obj\\",
+      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

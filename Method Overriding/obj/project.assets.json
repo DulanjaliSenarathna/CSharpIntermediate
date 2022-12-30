@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Method Overriding\\Method Overriding.csproj",
+      "projectUniqueName": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Method Overriding\\Method Overriding.csproj",
       "projectName": "Method Overriding",
-      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Method Overriding\\Method Overriding.csproj",
+      "projectPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Method Overriding\\Method Overriding.csproj",
       "packagesPath": "C:\\Users\\Dulanjali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\CSharpIntermediate\\Method Overriding\\obj\\",
+      "outputPath": "C:\\Users\\Dulanjali\\Desktop\\Code with Mosh\\CSharpIntermediate\\Method Overriding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

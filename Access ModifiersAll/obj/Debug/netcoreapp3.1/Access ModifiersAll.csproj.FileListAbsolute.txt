@@ -1,0 +1,16 @@
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\obj\Debug\netcoreapp3.1\Access ModifiersAll.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\obj\Debug\netcoreapp3.1\Access ModifiersAll.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\obj\Debug\netcoreapp3.1\Access ModifiersAll.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\obj\Debug\netcoreapp3.1\Access ModifiersAll.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\bin\Debug\netcoreapp3.1\Access ModifiersAll.exe
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\bin\Debug\netcoreapp3.1\Access ModifiersAll.deps.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\bin\Debug\netcoreapp3.1\Access ModifiersAll.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\bin\Debug\netcoreapp3.1\Access ModifiersAll.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\bin\Debug\netcoreapp3.1\Access ModifiersAll.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\bin\Debug\netcoreapp3.1\Access ModifiersAll.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\bin\Debug\netcoreapp3.1\Amazon.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\bin\Debug\netcoreapp3.1\Amazon.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\obj\Debug\netcoreapp3.1\Access ModifiersAll.csproj.CopyComplete
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\obj\Debug\netcoreapp3.1\Access ModifiersAll.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\obj\Debug\netcoreapp3.1\Access ModifiersAll.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Access ModifiersAll\obj\Debug\netcoreapp3.1\Access ModifiersAll.genruntimeconfig.cache

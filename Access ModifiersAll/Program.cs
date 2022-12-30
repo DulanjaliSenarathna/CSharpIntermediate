@@ -15,7 +15,7 @@ namespace Access_ModifiersAll
         static void Main(string[] args)
         {
             var customer = new Customer();
-            Amazon.RateCalculator calculator = new RateCalculator();
+           // Amazon.RateCalculator calculator = new RateCalculator();
             customer.Promote();
         }
     }
