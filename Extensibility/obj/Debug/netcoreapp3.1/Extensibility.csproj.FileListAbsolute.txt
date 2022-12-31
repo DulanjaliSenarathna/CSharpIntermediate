@@ -1,0 +1,13 @@
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.exe
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.deps.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\Dulanjali\Desktop\Code with Mosh\CSharpIntermediate\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.genruntimeconfig.cache
